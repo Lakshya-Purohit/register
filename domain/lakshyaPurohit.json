@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "Lakshya-Purohit"
+  },
+  "record": {
+    "CNAME": "cname.vercel-dns.com",
+    "TXT": {
+      "_vercel": "vc-domain-verify=lakshyapurohit.is-a.dev,c0c70ae27553ea378d4b"
+    }
+  }
+}
